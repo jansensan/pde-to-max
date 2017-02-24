@@ -1,0 +1,8 @@
+# Ignore files from git 
+
+# mac osx files
+._*
+.DS_STORE
+
+# project files
+bin/
